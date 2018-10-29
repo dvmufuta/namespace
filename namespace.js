@@ -6,7 +6,7 @@ Date: 2018-10-26
 ********************************/
 
 
-var MUFU0004 = {
+var DVMUFUTA = {
     init: function () {
 
         let div = document.createElement("div");
